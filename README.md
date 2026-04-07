@@ -5,7 +5,7 @@
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge\&logo=xampp\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-Este é um sistema de gerenciamento de lista de convidados desenvolvido para fins de estudo. O objetivo principal foi praticar a integração entre o \*\*PHP\*\* e o banco de dados \*\*MySQL\*\*, permitindo o cadastro de pessoas interessadas em participar de um evento (Show do Luan Santana).
+Este é um sistema de gerenciamento de lista de convidados desenvolvido para fins de estudo. O objetivo principal foi praticar a integração entre o PHP e o banco de dados MySQL, permitindo o cadastro de pessoas interessadas em participar de um evento (Show do Luan Santana).
 
 ## 🛠️ Funcionalidades
 
